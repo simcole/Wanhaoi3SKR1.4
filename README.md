@@ -6,6 +6,8 @@ http://www.colemanworld.net/2020/05/02/wanhao-i3-conversion-to-skr-1-4-log/
 
 I will update and publish all code changes in my case to this github
 
+I have just updated my setup to use the TFT 3.5 v3 touchscreen and have created a new branch for it.  https://github.com/simcole/Wanhaoi3SKR1.4/tree/TFT3.5-screen
+
 #ASSUMPTIONS  **IMPORTANT**
 Check to see if you're using the same stepper drivers as me 2209 as well as the actual moon motors which are different for different years of the Monoprice Maker Select V2.  I'm also using BL touch though I haven't mounted it yet.  I intend to use it to the BL touch pins but we'll see how that goes and if I encounter problems I'll move it to the Z Stop pins.  
 
