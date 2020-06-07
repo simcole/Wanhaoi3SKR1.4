@@ -1933,7 +1933,7 @@
 // RepRapDiscount FULL GRAPHIC Smart Controller
 // http://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller
 //
-//#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
 
 //
 // ReprapWorld Graphical LCD
@@ -1982,11 +1982,11 @@
 //
 // LCD for Melzi Card with Graphical LCD
 //
-#define LCD_FOR_MELZI
+//#define LCD_FOR_MELZI
 
-#define ST7920_DELAY_1 DELAY_NS(0)
-#define ST7920_DELAY_2 DELAY_NS(188)
-#define ST7920_DELAY_3 DELAY_NS(189)
+//#define ST7920_DELAY_1 DELAY_NS(0)
+//#define ST7920_DELAY_2 DELAY_NS(188)
+//#define ST7920_DELAY_3 DELAY_NS(189)
 
 //
 // Original Ulticontroller from Ultimaker 2 printer with SSD1309 I2C display and encoder
