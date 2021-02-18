@@ -10,3 +10,5 @@ I will update and publish all code changes in my case to this github
 Check to see if you're using the same stepper drivers as me 2209 as well as the actual moon motors which are different for different years of the Monoprice Maker Select V2.  I'm also using BL touch though I haven't mounted it yet.  I intend to use it to the BL touch pins but we'll see how that goes and if I encounter problems I'll move it to the Z Stop pins.  
 
 Warning: I'm a n00b and use at your own risk.
+
+I just uploaded 2.0.7.2 branch update with UBL removed from configs.  I kept having issues with the mesh not working right so I went back to manual bed level.  It instnatly made my prints work 100% better in my case.  
